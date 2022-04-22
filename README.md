@@ -42,6 +42,7 @@ A dizeyi 2x3'lük bir sıfır matrisdir.
 Sadece bir satırdan oluşan matrislere satır matris, sadece bir sütundan oluşan matrislere ise sütun matris denir.
 
 ![](6.svg)
+
 ![](7.svg)
 
 Eğer bir matrisin boyutlarından biri 1 ise (yani ya satır sayısı 1 veya sütun sayısı 1 ise yani satır matrisi veya sütun matrisi ise) bu matris, bir yöney veya vektör veya Euclid-tipi vektör olarak da tanımlanır.
