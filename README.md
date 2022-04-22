@@ -1,2 +1,2 @@
 # Matrisler
-Patika.dev in matematik dersi projesi kapsamında yaptığım çalışma
+https://www.patika.dev/tr nin matematik dersi projesi kapsamında yaptığım çalışma
