@@ -19,7 +19,9 @@ Bir matrisdeki düz yatay sıraya satır dikey sıraya sütun adı verilir. Bir 
 
 ### Kare matris
 Satır sayısı sütun sayısına eşit olan matrislerdir.
+
 ![](3.svg)
+
 A dizeyi 2x2 türünden bir kare matrisdir.
 
 ### Birim Matris
@@ -31,13 +33,17 @@ Kare matrislerin yaygın bir örneği ise, köşegenin üzerindeki öğelerinin 
 
 ### Sıfır Matris
 Tüm elemanları sıfır olan matrisdir.
+
 ![](5.svg)
+
 A dizeyi 2x3'lük bir sıfır matrisdir.
 
 ### Satır ve Sütun Matris
 Sadece bir satırdan oluşan matrislere satır matris, sadece bir sütundan oluşan matrislere ise sütun matris denir.
+
 ![](6.svg)
 ![](7.svg)
+
 Eğer bir matrisin boyutlarından biri 1 ise (yani ya satır sayısı 1 veya sütun sayısı 1 ise yani satır matrisi veya sütun matrisi ise) bu matris, bir yöney veya vektör veya Euclid-tipi vektör olarak da tanımlanır.
 
 
